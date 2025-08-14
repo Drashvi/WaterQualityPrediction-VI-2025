@@ -61,9 +61,3 @@ Through this project, I:
 - Built confidence in applying **machine learning for sustainability-focused problems**
 
 ---
-
-## Model Link :
-
-https://drive.google.com/file/d/1wT_SCmVp-dPPV7-Dje3GrzbLAZM3e3_L/view?usp=sharing
-
----
