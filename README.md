@@ -61,3 +61,7 @@ Through this project, I:
 - Built confidence in applying **machine learning for sustainability-focused problems**
 
 ---
+
+## Project Link 
+Link : https://waterqualitypredictionbydrashvi.streamlit.app/
+
